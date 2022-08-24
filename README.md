@@ -11,3 +11,23 @@ Expected Ouput:
 Test: "Create a function that randomize's 1-6 and stores outcome and add's following roll."
 Code:
 Expected Ouput:
+
+Test: "Create a button that prompts the user to roll"
+Code:
+Expected Ouput:
+
+Test: 
+Code:
+Expected Ouput:
+
+Test: 
+Code:
+Expected Ouput:
+
+Test: 
+Code:
+Expected Ouput:
+
+Test: 
+Code:
+Expected Ouput:
