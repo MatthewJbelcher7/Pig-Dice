@@ -15,15 +15,16 @@ function Player2(currentScore, totalScore) {
 }
 
 function score(diceValue) {
-  var currentScoreSum = 0; 
+  let currentScoreSum = 0; 
   let currentScoreArray = [];
   for (let i= 0; i < diceValue.length; i++) {
     currentScoreArray.push([i]);
   }
   for (let i = 0; i < currentScoreArray.length; i++) {
-      currentScoreSum += currentScoreArray[i]
+    currentScoreSum += currentScoreArray[i]
   } 
-}
+  return 
+} 
 
 let diceValue = getRandomNumber();
 
